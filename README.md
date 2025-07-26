@@ -35,6 +35,7 @@ A hand-picked collection of cutting-edge projects and repositories relevant for 
 - **[MiniCPM-o 2.6 (HF)](https://huggingface.co/openbmb/MiniCPM-o-2_6)** — Multimodal model surpassing GPT-4V in visual reasoning.
 - **[MiniCPM at LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)** — Integration of MiniCPM into LLaMA ecosystem.
 - **[Agent Recipes](https://www.agentrecipes.com/)** — Huge collection of plug-and-play AI agent workflows and prompts.
+- **[Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper](https://github.com/unclecode/crawl4ai)** - Crawl4AI is the #1 trending GitHub repository, actively maintained by a vibrant community. It delivers blazing-fast, AI-ready web crawling tailored for LLMs, AI agents, and data pipelines. Open source, flexible, and built for real-time performance, Crawl4AI empowers developers with unmatched speed, precision, and deployment ease.
 
 ---
 
