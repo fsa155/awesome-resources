@@ -37,6 +37,8 @@ A hand-picked collection of cutting-edge projects and repositories relevant for 
 - **[Agent Recipes](https://www.agentrecipes.com/)** — Huge collection of plug-and-play AI agent workflows and prompts.
 - **[Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper](https://github.com/unclecode/crawl4ai)** - Crawl4AI is the #1 trending GitHub repository, actively maintained by a vibrant community. It delivers blazing-fast, AI-ready web crawling tailored for LLMs, AI agents, and data pipelines. Open source, flexible, and built for real-time performance, Crawl4AI empowers developers with unmatched speed, precision, and deployment ease.
 
+### 🟢 OCR systems
+- **[🔥Sycamore](https://github.com/aryn-ai/sycamore?tab=readme-ov-file)** - Sycamore is an open source, AI-powered document processing engine for ETL, RAG, LLM-based applications, and analytics on unstructured data. Sycamore can partition and enrich a wide range of document types including reports, presentations, transcripts, manuals, and more. It can analyze and chunk complex documents such as PDFs and images with embedded tables, figures, graphs, and other infographics.
 ---
 
 ## 🧰 Developer Tools & Articles
